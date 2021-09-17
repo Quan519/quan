@@ -1,0 +1,3 @@
+/Users/quan/CLionProjects/ha fu man/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/quan/CLionProjects/ha fu man/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quan/CLionProjects/ha fu man/cmake-build-debug/CMakeFiles/ha_fu_man.dir
