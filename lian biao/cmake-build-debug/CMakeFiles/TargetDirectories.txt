@@ -1,0 +1,3 @@
+/Users/quan/CLionProjects/lian biao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/quan/CLionProjects/lian biao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quan/CLionProjects/lian biao/cmake-build-debug/CMakeFiles/lian_biao.dir

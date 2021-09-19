@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quan/CLionProjects/lian biao/intSLList.cpp
+intSLList.h
+/Users/quan/CLionProjects/lian biao/intSLList.h
+iostream
+-
+
+/Users/quan/CLionProjects/lian biao/intSLList.h
+
